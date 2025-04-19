@@ -1,0 +1,9 @@
+# Ignora arquivos grandes específicos
+Laboratorios/LAB01/dadosMundo/idb5yr.txt
+Laboratorios/LAB01/dadosMundo/idbsingleyear.txt
+
+# Ignora pastas temporárias
+node_modules/
+.DS_Store
+.env
+*.log
