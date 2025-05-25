@@ -1,0 +1,22 @@
+# Ignora os dados extraídos
+/data_fcd/
+/real_data_fcd.zip
+
+# Ignora checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignora arquivos temporários do sistema
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignora arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
