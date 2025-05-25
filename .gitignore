@@ -1,5 +1,5 @@
 # Ignora os dados extraídos
-/data_fcd/
+C:/Users/rapha/.vscode/codes/Ciencia de Dados/FundamentosCienciaDados/Projeto/data_fcd
 /real_data_fcd.zip
 
 # Ignora checkpoints do Jupyter Notebook
